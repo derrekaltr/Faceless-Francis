@@ -8,7 +8,7 @@ CHROME="/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 
 pattern="${1:-week-*}"
 made=0
-for pack in weeks/${~pattern}/pack.html; do
+for pack in weeks/${~pattern}/pack.html weeks/${~pattern}/script-pack.html; do
   [ -e "$pack" ] || continue
   dir=$(dirname "$pack")
   # PDF name comes from a "pdf-name" comment in the pack, else falls back to the week number

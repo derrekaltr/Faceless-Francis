@@ -37,14 +37,14 @@ Course thesis: *"the highest-LTV version of OnlyFans is a cohesive customer expe
 - Pre-scripted persona practice scenarios (flirty DM, hate comment, big win) so the model performs the character on command.
 - Industry intel: "Chat Stars" chatting course coming (#4 on Infloww, ~$9M/mo chatting agency); Hive Media benchmark (60+ models, $1M+/mo, 300-device farm, 12K accounts).
 
-## 6. Policy decisions for Derrek (rule before the relevant week ships)
+## 6. Policy decisions — **ruled by Derrek, Nov 18, 2026** (agreed to recommendations)
 
-| # | Decision | Course position | Recommendation | Needed by |
-|---|---|---|---|---|
-| 1 | Faked DM/screenshot carousels | Sanctions it | Prohibit — brand risk, zero upside vs real screenshots | Wk 10 |
-| 2 | Psychological-targeting language in chatter docs | Explicit machinery | Set the written line in chatter guidelines | Wk 3 |
-| 3 | Account-farm practices vs TOS (proxies, Crane spoofing) | Standard practice, acknowledged TOS evasion | Size exposure deliberately (eggs per account/platform) | Wk 7 |
-| 4 | Course-text reuse | Crude in spots | All ALTR docs rewritten, never pasted (handled) | — |
+| # | Decision | Ruling |
+|---|---|---|
+| 1 | Faked DM/screenshot carousels | **Prohibited.** Carousel content (Wk 10) uses real screenshots or none. |
+| 2 | Psychological-targeting language in chatter docs | **Agreed to set a written line.** Default until refined: archetype sheets describe persona voice and buyer context in professional language; no instructions that target compulsive-spending or exploit stated vulnerabilities. |
+| 3 | Account-farm practices vs TOS (proxies, spoofing) | **Agreed to size exposure deliberately.** Wk 7–8 SOPs document current standard practice with risk notes per tactic; no expansion of exposure without a per-platform decision. |
+| 4 | Course-text reuse | **Handled by construction** — all ALTR docs rewritten, never pasted. |
 
 ## 7. Reference numbers card (pin in wiki)
 
