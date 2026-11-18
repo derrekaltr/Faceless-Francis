@@ -45,4 +45,5 @@ Weeks 7 and 8 were originally account-infrastructure topics (creation, warmup, b
 - [x] Batch weeks 3–12 (weeks 7–8 re-scoped for safety; see above)
 - [ ] **Team deliverable:** internal account-ops SOP (creation/warmup/ban prevention) — owner TBD
 - [ ] Migrate program to `altr-management/03-content-ops/organic-growth-program/` + add line to its `TASKS.md`
-- [ ] Shoot schedule for the 12 director videos (studio day batches 3–4 scripts per shoot)
+- [x] Shoot schedule for the 12 director videos → `SHOOT-SCHEDULE.md` (3 studio days × 4 scripts, aligned to the drop calendar)
+- [ ] Book the 3 studio days (targets: Nov 21 / Dec 10 / Jan 7) and shoot
