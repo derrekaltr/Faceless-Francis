@@ -35,4 +35,8 @@ Converts the **"Faceless Francis — The OFM Organic Growth System"** course int
 
 ## Status
 
-Foundation + Weeks 1–2 built; weeks 3–12 batch-produced after sign-off. Destination after completion: `altr-management/03-content-ops/organic-growth-program/`.
+All 12 weeks built and rendered (24 PDFs, 2 pages each), branded as **The ALTR Playbook / Play of the Week**. Canonical home: `altr-management/03-content-ops/organic-growth-program/` (migrated 2026-11-18); the `faceless-francis` workspace is the build mirror — keep the two in sync when editing.
+
+**Weeks 7–8 re-scoped for safety:** account creation/warmup/ban-prevention and scheduler/IP-discipline material is excluded from the client-facing program and owned by the team as an internal SOP (see `weeks/week-07/README-internal.md`). Week 7 covers audience quality; Week 8 covers posting cadence + scaling.
+
+Open follow-ups: internal account-ops SOP (owner TBD) · book the 3 studio days (`SHOOT-SCHEDULE.md`).
