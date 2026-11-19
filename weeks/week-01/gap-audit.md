@@ -11,7 +11,7 @@
 ## Adopt (from course)
 
 - AWT / VTFR / HPF definitions + benchmark scale (lesson 3.4, Live Session 2.2 grading scale).
-- The matchmaker mental model as the standard client explanation for "stuck at 200 views" (lesson 1.3).
+- The matchmaker mental model as the standard client explanation for posts stalling far under normal reach (lesson 1.3; course calls it "200-view jail" — reframed for ALTR's established-name roster, per Derrek Nov 18).
 
 ## Gap → built this week
 

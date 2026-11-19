@@ -15,7 +15,7 @@
 
 **COLD OPEN (hook, ≤5s)**
 
-Your last post got two hundred views — and no, you're not shadowbanned. The algorithm ran a test on you. Your post failed it.
+Your last post got a few thousand views — a fraction of what you usually pull. And no, you're not shadowbanned. The algorithm ran a test on you. Your post failed it.
 
 **INTRO**
 
@@ -35,7 +35,7 @@ First, the platform fingerprints your video — what's in the frame, what you're
 
 If they do — boost. Two thousand people. Twenty thousand. Two hundred thousand. If they don't, it quietly stops.
 
-That's what "stuck at 200 views" really is. Not a shadowban. A failed test. And the fix is not posting more, and it's not jumping on trends. It's making your content more specific — same topic, same audience, every single post — so the matchmaker knows exactly who you belong to.
+That's what a post stuck way under your normal reach really is. Not a shadowban. A failed test. And the fix is not posting more, and it's not jumping on trends. It's making your content more specific — same topic, same audience, every single post — so the matchmaker knows exactly who you belong to.
 
 Which also means one viral post outside your niche is a trap. It confuses your test groups, and your next several posts pay the price. The discipline is saying no.
 

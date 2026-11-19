@@ -12,7 +12,7 @@ Social platforms make money by keeping people scrolling, so the algorithm has on
 
 When you post, the platform fingerprints the video (what it sees, what it hears, your caption) and builds a "fit score" — a prediction of who will like it. It then shows the post to a small test group of roughly 200 people, **mostly strangers, not followers**. Strong reaction → it boosts to ~2,000, then ~20,000, then ~200,000. Lukewarm → it re-tests with a new group. Weak → it stops.
 
-That's why accounts get "stuck at 200 views." It's almost never a shadowban — the content failed its test group. The fix is not posting more or chasing trends; it's making more specific content for a more specific audience, so the fit score sharpens. The algorithm structurally rewards niching down. And it's why one off-niche viral post is a trap: it contaminates your test groups, and your next several posts suffer for it.
+That's why posts stall way under an account's normal reach (a few thousand views for an established name). It's almost never a shadowban — the content failed its test group. The fix is not posting more or chasing trends; it's making more specific content for a more specific audience, so the fit score sharpens. The algorithm structurally rewards niching down. And it's why one off-niche viral post is a trap: it contaminates your test groups, and your next several posts suffer for it.
 
 ## This week's trick (the single imperative)
 
