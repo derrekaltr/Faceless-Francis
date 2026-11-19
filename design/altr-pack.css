@@ -147,6 +147,7 @@ th {
 }
 td { padding: 5px 10px 5px 0; border-bottom: 1px solid var(--ink-line-soft); vertical-align: top; }
 td:first-child { color: var(--bone); font-weight: 600; white-space: nowrap; }
+td .sub { display: block; font-weight: 400; font-size: 7.5pt; color: var(--bone-dim); letter-spacing: 0.02em; }
 tr:last-child td { border-bottom: none; }
 
 .do-dont { display: flex; gap: 12px; margin: 12px 0; }
