@@ -10,7 +10,7 @@ What the client gets from this week.
 
 Core concept, rewritten in ALTR's voice (never course text verbatim). 2–4 paragraphs.
 
-## This week's trick (the single imperative)
+## This week's play (the single imperative)
 
 The most actionable version of the tactic.
 

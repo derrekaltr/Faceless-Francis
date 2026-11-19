@@ -23,7 +23,7 @@ The mechanism that converts brand into income is the **parasocial relationship**
 
 The critical insight: **most creators stall between familiarity and attachment.** The audience knows who you are — but doesn't feel anything yet. Views look fine, the name is known, and nobody clicks the link. When conversions are low, diagnose the stage before blaming the funnel: the problem is usually that content is producing recognition without producing connection.
 
-## This week's trick (the single imperative)
+## This week's play (the single imperative)
 
 Diagnose your stage honestly — then aim every post this week one stage down the pipeline, not straight at the sale.
 

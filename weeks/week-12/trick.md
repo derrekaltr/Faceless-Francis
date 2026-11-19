@@ -16,7 +16,7 @@ Just as important is the pipeline your clips live in. Each creator gets five fol
 
 One more honest number: our editors cap most edits at about an hour. The target is strong 7-out-of-10 content at scale — a full three-week batch of ~21 clips runs on roughly 40 working hours across scripting, shooting, and editing — because good content posted daily beats perfect content posted once a week, every time.
 
-## This week's trick (the single imperative)
+## This week's play (the single imperative)
 
 Your entire job in post-production is two sentences: get every raw clip into your Dump folder the same day you shoot it, and never delete anything. The pipeline does the rest.
 

@@ -1,10 +1,10 @@
-# ALTR Organic Growth Program — 3-Month Roadmap
+# The ALTR Playbook — 3-Month Roadmap
 
-**Trick of the Week**: 12 weekly drops converting "Faceless Francis — The OFM Organic Growth System" into ALTR training. Each drop = branded PDF + gap audit + SOPs (where gaps exist) + a teleprompter video script (**ALTR social media director on camera, teaching; clients/creators watching**).
+**Play of the Week**: 12 weekly drops converting "Faceless Francis — The OFM Organic Growth System" into ALTR training. Each drop = branded PDF + gap audit + SOPs (where gaps exist) + a teleprompter video script (**ALTR social media director on camera, teaching; clients/creators watching**).
 
 Proposed drop dates are Mondays — shift the whole column if the launch slips.
 
-| Wk | Drop date | Trick of the week | Source lessons (video #s) | Status |
+| Wk | Drop date | Play of the week | Source lessons (video #s) | Status |
 |---|---|---|---|---|
 | 1 | Nov 23, 2026 | The algorithm is a matchmaker — and the only 3 numbers that matter (AWT · VTFR · HPF) | 1.2, 1.3, 3.4 | ✅ built |
 | 2 | Nov 30, 2026 | The parasocial pipeline — why fans pay 3–5x for the same content | 2.1, 2.2 | ✅ built |

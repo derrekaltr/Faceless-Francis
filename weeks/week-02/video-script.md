@@ -39,7 +39,7 @@ Here's the part almost nobody gets right: most creators stall in the exact same 
 
 And your comments will tell you precisely where you are. Fire emojis and nothing else? That's recognition. They use your name and your jokes, but never click? Familiarity — the stall. Personal stories, "this made my day," DMs picking up? That's attachment — now it's working.
 
-So this week's trick: diagnose your stage honestly, then aim every post at the *next* stage — not at the sale. If they're at familiarity, don't push the link. To someone who doesn't feel connected yet, a link is just a stranger asking for money.
+So this week's play: diagnose your stage honestly, then aim every post at the *next* stage — not at the sale. If they're at familiarity, don't push the link. To someone who doesn't feel connected yet, a link is just a stranger asking for money.
 
 **HOMEWORK + CLOSE**
 

@@ -20,7 +20,7 @@ Set the niche context instantly, establish a premise with tension, make the view
 
 **The litmus test:** watch only the first 3–5 seconds of your video. Do you actually feel anticipation? If not, back to the drawing board.
 
-## This week's trick (the single imperative)
+## This week's play (the single imperative)
 
 Shoot the body once, shoot 3–5 different hooks for it, and start the tournament — from now on, hooks are promoted by numbers, not taste.
 

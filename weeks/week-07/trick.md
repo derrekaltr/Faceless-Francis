@@ -15,7 +15,7 @@ This has a hard consequence: **some growth is bad growth.** Certain tactics reli
 
 The good news: your content *is* your audience filter. Every choice — your humor, your cultural references, the music you use, the setting, the in-jokes — either draws your people closer or waters your audience down. Content that *requires* your audience's context to enjoy (their slang, their interests, their world) screens out everyone else automatically. That's not a bug; it's the whole mechanism. A video only your people fully get is a video that builds an account of only your people.
 
-## This week's trick (the single imperative)
+## This week's play (the single imperative)
 
 Audit your last month: find the posts that pulled your biggest numbers, and honestly ask whether they pulled your *people* — or just a crowd. Then stop feeding the crowd.
 

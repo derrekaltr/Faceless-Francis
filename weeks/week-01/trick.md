@@ -14,7 +14,7 @@ When you post, the platform fingerprints the video (what it sees, what it hears,
 
 That's why posts stall way under an account's normal reach (a few thousand views for an established name). It's almost never a shadowban — the content failed its test group. The fix is not posting more or chasing trends; it's making more specific content for a more specific audience, so the fit score sharpens. The algorithm structurally rewards niching down. And it's why one off-niche viral post is a trap: it contaminates your test groups, and your next several posts suffer for it.
 
-## This week's trick (the single imperative)
+## This week's play (the single imperative)
 
 For the next two weeks, every single post serves the same narrow audience — no exceptions, no off-niche trends — while we grade your account on the three numbers below.
 

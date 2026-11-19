@@ -19,7 +19,7 @@ A million views sounds amazing — until none of them click your link. Let me sh
 
 **INTRO**
 
-I'm [NAME], your social media director at ALTR — welcome to week seven. Today's trick is the one that separates creators who grow a number from creators who grow an income.
+I'm [NAME], your social media director at ALTR — welcome to week seven. Today's play is the one that separates creators who grow a number from creators who grow an income.
 
 [GFX: "WK 07 — AUDIENCE QUALITY"]
 

@@ -20,7 +20,7 @@ Every strong video you find goes through a **4-step extraction**: identify the f
 
 **Captions** follow the same skeleton: a hook under 125 characters (that's where the feed truncates), a short story, and one CTA ending in a *specific* question. Hashtags: 5–10 per post, mixed sizes, a few rotating sets — real but marginal (~10–15% of discovery). Never spend more time on the caption than the content.
 
-## This week's trick (the single imperative)
+## This week's play (the single imperative)
 
 Run one YouTube research session with your ALTR manager: name your supply gap, run the 4-step extraction on the best videos you find, and bank 20 shoot-ready ideas. From this week on, the bank never drops below 20.
 

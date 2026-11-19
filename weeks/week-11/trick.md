@@ -18,7 +18,7 @@ Before you say a word, the frame has already spoken. Viewers decide in milliseco
 
 This is also the standard your ALTR team runs on a **directed shoot day**: a shot list built from your content bank, a 30-second frame check before every setup, and direction that always says *what* to change and *why it performs* — specific, respectful, never "do it again."
 
-## This week's trick (the single imperative)
+## This week's play (the single imperative)
 
 No frame is an accident this week: before every record press, call three things out loud — the shot, the angle, and where the light is coming from (and whether it looks like it comes from there).
 

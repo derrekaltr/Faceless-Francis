@@ -15,7 +15,7 @@
 
 **COLD OPEN (hook, ≤5s)**
 
-Three million views on an account with five hundred followers. Not five hundred thousand — five hundred. The whole trick was in the first three seconds.
+Three million views on an account with five hundred followers. Not five hundred thousand — five hundred. The whole game was the first three seconds.
 
 **INTRO**
 

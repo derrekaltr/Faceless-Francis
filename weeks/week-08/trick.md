@@ -18,7 +18,7 @@ The machine also has settings we don't improvise. Posts go out at **9am, 12pm, a
 
 Two force multipliers as you scale: **use your sawdust** — every piece of content is raw material for more (a shoot becomes Reels, stills become carousels, a long cut becomes clips; like a lumber mill, nothing goes to waste) — and **repost your Greatest Hits** roughly every 30 days. Proven winners are free volume most creators never collect.
 
-## This week's trick (the single imperative)
+## This week's play (the single imperative)
 
 Fill all three posting slots on schedule, every day, at your current stage's volume — and never add volume until the current level is steady at quality. More, posted worse, is less.
 

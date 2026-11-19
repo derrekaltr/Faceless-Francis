@@ -19,7 +19,7 @@ Your last post got a few thousand views — a fraction of what you usually pull.
 
 **INTRO**
 
-Hey — I'm [NAME], your social media director here at ALTR. Every week I'm going to hand you one trick that changes how your content performs. This week: how the algorithm actually works — because once you see it, you'll never post the same way again.
+Hey — I'm [NAME], your social media director here at ALTR. Every week I'm going to hand you one play from the ALTR Playbook that changes how your content performs. This week: how the algorithm actually works — because once you see it, you'll never post the same way again.
 
 [GFX: "WK 01 — THE ALGORITHM IS A MATCHMAKER"]
 

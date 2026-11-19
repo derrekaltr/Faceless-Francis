@@ -18,7 +18,7 @@ Your **audio identity** has three layers: *voice* (tempo, pitch, energy — lean
 
 Everything above gets written into one document — your **brand kit** — in a working session with your ALTR manager. Written down, it does two jobs: on an off day you can slip into the character on command, and the team can reproduce your look and sound in every shoot, edit, and post without you re-deciding anything.
 
-## This week's trick (the single imperative)
+## This week's play (the single imperative)
 
 Lock your uniform: one wardrobe formula, one setting, one signature prop, one music direction — written down in your brand kit — then repeat them in every post until recognition is automatic.
 

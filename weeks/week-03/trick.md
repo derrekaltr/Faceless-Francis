@@ -18,7 +18,7 @@ This plugs straight into week one's matchmaker: the algorithm's only job is matc
 
 **Archetypes — emotional niching.** Short-form can't carry a complex personality; every post must communicate your character in seconds, so we simplify into an archetype — one of 10 classic character flavors in 3 families (nurture / power / relational). Same avatar + same niche + different archetype = a completely different brand ("don't cheat on me, I know engines" vs. "tell me about your day while I change your oil"). It's a differentiating layer, not the whole brand — and the one rule is that your archetype must intersect your natural personality. A forced character reads as fake, and fake kills connection.
 
-## This week's trick (the single imperative)
+## This week's play (the single imperative)
 
 Write your one specific fan — one paragraph, so specific you'd recognize him at a gas station — then rewrite your bio and your next three captions in *his* language.
 

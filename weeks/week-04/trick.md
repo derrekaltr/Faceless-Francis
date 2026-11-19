@@ -22,7 +22,7 @@ Then the viability gut check, three letters at a time — **APE / TAM / DRR**:
 
 Finally, **reverse benchmarking**: don't copy the top account in your subniche — that's fighting an incumbent on their home turf. Instead, list the top creators, pull their all-time best content (~250 top Reels), and *read the comments*. Comment sections tell you what the audience is asking for that nobody is making. That gap is your positioning. And benchmark **outside the adult space**: creators who win without an attractiveness advantage have provably good content. Attractiveness is a multiplier, not a strategy — find content that wins on merit, then add your advantage.
 
-## This week's trick (the single imperative)
+## This week's play (the single imperative)
 
 Write your three tiers — category, niche, subniche — and score the subniche on APE/TAM/DRR. If you can't describe the one specific fan it serves, you're still at category level: drill until you can.
 

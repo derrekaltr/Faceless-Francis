@@ -16,7 +16,7 @@ From there, every account runs a portfolio: **70% core format** (your proven win
 
 Formats answer *what you make*. The **Content Compass** answers *how it lands*. X-axis: **value** (educate, instruct, inform) vs. **entertainment** (make them feel something — both must be engaging). Y-axis: **attainable** (creator on the viewer's level or below — flawed, relatable, "one of us"; buying runs on **hope** of connection) vs. **aspirational** (creator above the viewer — authority, glamour, spectacle; buying runs on **admiration and devotion**). A hidden Z-axis — the specific emotion you evoke — is what keeps two creators in the same quadrant from feeling identical. No quadrant is better; both a warm "I've been where you are" coach and a drill-sergeant authority outperform the generic middle, because both are differentiated.
 
-## This week's trick (the single imperative)
+## This week's play (the single imperative)
 
 Pick your one compass quadrant with your manager and lock it — then every post this week comes from a named bucket (core / filler / experiment) *and* lands in that quadrant. No posts from "nowhere".
 
